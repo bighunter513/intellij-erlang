@@ -16,5 +16,5 @@ Note for **Mac OS X** users: you need to download the entire zip file, not a sev
 ## Recent changes
 ### The latest version
 
-* IntelliJ 2021.2 support
+* IntelliJ 2023.3 support
 * Erlang plugin could be installed and upgraded without restart

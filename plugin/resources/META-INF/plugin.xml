@@ -32,7 +32,7 @@
     <change-notes>
         <![CDATA[
             <ul>
-              <li>IntelliJ 2021.2 support</li>
+              <li>IntelliJ 2023.3 support</li>
               <li>Erlang plugin could be installed and upgraded without restart</li>
             </ul>
         ]]>
